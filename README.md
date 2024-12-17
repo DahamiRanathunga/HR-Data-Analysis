@@ -69,4 +69,5 @@ The dashboard provides key insights into team presence, work-from-home (WFH), an
 This dashboard highlights key insights into workforce attendance trends, including presence, work-from-home, and sick leave metrics. By identifying behavioral patterns and areas for improvement, businesses can optimize workforce policies, improve employee engagement, and maintain operational efficiency.  
 
 --- 
+![Screenshot (379)](https://github.com/user-attachments/assets/8a77c389-b101-4538-b93d-c69e65a2d055)
 
